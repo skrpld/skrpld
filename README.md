@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**skrpld/skrpld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My stack:
+- Kotlin
+- Android SDK
+- Jetpack Compose
 
-Here are some ideas to get you started:
+### Additional skills?:
+- Java
+- GNU/Linux
+- python, C#, HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My actual projects:
+- [Goalion](https://github.com/skrpld/Goalion) - Most actual, clean and correct project. Created for colloge practice.  
+**In progress**
+- [ViConV](https://github.com/skrpld/ViConV) - My personal command pet project. Currently in design.  
+**In progress**
+- [HyperLocal Forum](https://github.com/skrpld/Hyperlocal_Forum) - My first course work. Draft of [ViConV](https://github.com/skrpld/ViConV).  
+**Completed**
+- [Matule](https://github.com/skrpld/Matule) - Training project, draft. Created for competition.  
+**Abadoned**
