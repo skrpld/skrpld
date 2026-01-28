@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-### My stack:
+### 🛠️ My stack:
 - Kotlin
 - Android SDK
 - Jetpack Compose
 
-### Additional skills?:
+### 💡 Additional skills?:
 - Java
 - GNU/Linux
 - python, C#, HTML
 
-### My actual projects:
+### 🗂️ My actual projects:
 - [Goalion](https://github.com/skrpld/Goalion) - Most actual, clean and correct project. Created for colloge practice.  
 **In progress**
 - [ViConV](https://github.com/skrpld/ViConV) - My personal command pet project. Currently in design.  
