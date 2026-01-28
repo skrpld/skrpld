@@ -6,6 +6,7 @@
 - Jetpack Compose
 
 ### 💡 Additional skills?:
+- Kotlin Multiplatform
 - Java
 - GNU/Linux
 - python, C#, HTML
