@@ -1,14 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-### 🗂️ My actual projects:
-### [Goalion](https://github.com/skrpld/Goalion)  
+*There is my actual projects:*
+
+### 🎯 [Goalion](https://github.com/skrpld/Goalion)  
 > Most actual, clean and correct project. Created for colloge practice.  
 `In progress`
 
-### [ViConV](https://github.com/skrpld/ViConV)  
-> My personal command pet project. Currently in design.  
+### 🐝 [NearBee](https://github.com/skrpld/NearBeee)  
+> My personal command pet project. Multiplatform and most actuall practices  
 `In progress`
 
-### [HyperLocal Forum](https://github.com/skrpld/Hyperlocal_Forum)  
-> My first course work. Draft of [ViConV](https://github.com/skrpld/ViConV).  
+### 📍 [~HyperLocal Forum~](https://github.com/skrpld/Hyperlocal_Forum)  
+> My first course work. Draft of [NearBee](https://github.com/skrpld/NearBeee).  
 `Completed`
